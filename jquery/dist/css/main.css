@@ -4,8 +4,7 @@ body {
 }
 
 main {
-  width: 720px;
-  margin: 0 auto;
+  width: 720px; margin: 0 auto;
 }
 
 #apodImg {
@@ -13,8 +12,7 @@ main {
 }
 
 div[id^=apod] {
-  padding: .6rem 0;
-  font-size: 20px;
+  padding: .6rem 0; font-size: 20px;
 }
 
 #apodVideo {
